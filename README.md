@@ -1,6 +1,6 @@
-# jEVETools Unmarshal
+# jEVETools Unmarshal p2 Repository
 
-JAVA EVE Online Tools Unmarshal
+JAVA EVE Online Tools Unmarshal p2 Repository
 
 ## Copyright
 
